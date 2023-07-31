@@ -13,12 +13,12 @@ The problem we aim to address in this data science project is to perform sentime
 The reviews data were scraped with three different methods. The GoogleReviews data were scraped by INSTANT DATA SCRAPER, Reddit by Reddit API and TrustPilot by Selenium WebDriver. 
 
 ## Libraries 
-1. Re for removing special characters in reviews
-2. nltk
-3. Stopwords (nltk.corpus) for identifying stopwords
-4. SentimentIntensityAnalyzer (nltk.sentiment) for performing sentiment analysis on text
-5. TfidfVectorizer (sklearn.feature_extraction.text) for converting text documents into numerical feature vectors 
-6. LatentDirichletAllocation (sklearn.decomposition) for Topic Modelling
+1. Re for removing special characters in reviews;
+2. nltk; 
+3. Stopwords (nltk.corpus) for identifying stopwords; 
+4. SentimentIntensityAnalyzer (nltk.sentiment) for performing sentiment analysis on text; 
+5. TfidfVectorizer (sklearn.feature_extraction.text) for converting text documents into numerical feature vectors;  
+6. LatentDirichletAllocation (sklearn.decomposition) for Topic Modelling.
 
 ## Conclusion
 ![image](https://github.com/masonma99/CanadaPostReview_SentimentAnalysis/assets/108998129/8e01e43f-a859-4e1c-894a-48b59645670c)

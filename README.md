@@ -13,8 +13,7 @@ The problem we aim to address in this data science project is to perform sentime
 The reviews data were scraped with three different methods. The GoogleReviews data were scraped by INSTANT DATA SCRAPER, Reddit by Reddit API and TrustPilot by Selenium WebDriver. 
 
 ## Libraries 
-Re for removing special characters in reviews
-
+Re for removing special characters in reviews\n
 nltk
 
 Stopwords (nltk.corpus) for identifying stopwords

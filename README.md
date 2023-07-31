@@ -14,7 +14,9 @@ The reviews data were scraped with three different methods. The GoogleReviews da
 
 ## Libraries 
 Re for removing special characters in reviews
+
 nltk
+
 Stopwords (nltk.corpus) for identifying stopwords
 SentimentIntensityAnalyzer (nltk.sentiment) for performing sentiment analysis on text
 TfidfVectorizer (sklearn.feature_extraction.text) for converting text documents into numerical feature vectors 
